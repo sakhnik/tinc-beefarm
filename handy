@@ -8,3 +8,4 @@ OD0/c+g5VeOaApbzy1F3mkzTAcEfizp6NQIDAQAB
 -----END RSA PUBLIC KEY-----
 Ed25519PublicKey = OllJDGf0/6sxt4mIsjB0wd3yhOUhf/3o6RjeuDwCt6K
 Port = 11847
+Subnet = 10.0.0.4/32
